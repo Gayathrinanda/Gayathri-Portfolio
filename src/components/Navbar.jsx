@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import Logoname1 from '../assets/logoname1.png'
+import Logoname from '../assets/logoname.png'
 import { gsap } from "gsap";
 import { useGSAP } from '@gsap/react';
 import { Link } from 'react-router-dom';
@@ -28,7 +28,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <Link to='/'>
-            <img src={Logoname1} alt="Logo" className='h-20 w-auto' />
+            <img src={Logoname} alt="Logo" className='h-20 w-auto' />
           </Link>
 
           {/* Menu */}
