@@ -8,19 +8,19 @@ const projects = [
     id: 1,
     name: "Food Delivery",
     image: flavoroproject,
-    link: "https://flavoro-website-cx37l0ew6-gayathrinandas-projects.vercel.app/"
+    link: "https://flavoro-website.vercel.app/"
   },
   {
     id: 2,
     name: "Movie Maniac",
     image: movieproject ,
-    link: "http://movie-maniac-8l5w4t5a9-gayathrinandas-projects.vercel.app/"
+    link: "https://movie-maniac-five.vercel.app/"
   },
   {
     id: 3,
     name: "Music player website",
     image: musicproject,
-    link: "http://music-player-nivo6ius6-gayathrinandas-projects.vercel.app/"
+    link: "https://music-player-ten-gold.vercel.app/"
   },
   {
     id: 4,
