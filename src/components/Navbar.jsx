@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import Logoname from '../assets/logoname.png'
+import Logoname from '../assets/Logoname.png'
 import { gsap } from "gsap";
 import { useGSAP } from '@gsap/react';
 import { Link } from 'react-router-dom';
