@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../assets/logo.svg'
-import logoname1 from '../assets/logoname1.png'
+import Logoname from '../assets/Logoname.png'
 import { Link } from 'react-router-dom'
 
 const Footer = () => {
@@ -12,7 +12,7 @@ const Footer = () => {
       {/* Footer Top */}
       <footer className="main-container grid md:grid-cols-2 lg:grid-cols-4 gap-10 py-20">
         <Link to='/'>
-          <img src={logoname1} alt="Logo" className='h-10 w-auto' />
+          <img src={Logoname} alt="Logo" className='h-10 w-auto' />
         </Link>
         <div>
           <h5 className='font-medium mb-5'>Services</h5>
